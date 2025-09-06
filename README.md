@@ -1,6 +1,6 @@
 # GURINDER SINGH // VOICE AI ARCHITECT & AUTOMATION SPECIALIST
 
-### "I don't just build voice bots. I engineer fully autonomous, shockingly human AI agents that **print money** for businesses while they sleep."
+### "We don't just build voice bots. We engineer fully autonomous, shockingly human AI agents that **print money** for businesses while they sleep."
 
 ---
 
@@ -14,9 +14,9 @@
 
 You've seen the clunky chatbots and the robotic call center scripts. They frustrate customers and bleed money.
 
-**I do the opposite.**
+**We do the opposite.**
 
-I build sophisticated, autonomous systems that engage leads instantly, handle complex objections with empathy, and book qualified appointments directly onto sales calendars. While you're reading this, my agents are making thousands of calls, turning dead leads into revenue and making human cold-calling obsolete.
+We build sophisticated, autonomous systems that engage leads instantly, handle complex objections with empathy, and book qualified appointments directly onto sales calendars. While you're reading this, my agents are making thousands of calls, turning dead leads into revenue and making human cold-calling obsolete.
 
 Currently, I'm sharpening my full-stack development arsenal at **triOS College**, preparing to unleash the next generation of AI-driven business solutions.
 
